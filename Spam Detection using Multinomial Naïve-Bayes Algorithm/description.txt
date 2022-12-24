@@ -1,1 +1,2 @@
+In this project I took a dataset of 5500 messages and performed NLP processes such as tokenization, TF-IDF relationship and passed the processed data to a Naïve-Bayes Algorithm with 70 % as train data and 30 % as test data. The model generated an accuracy of 96.47 %.
 
